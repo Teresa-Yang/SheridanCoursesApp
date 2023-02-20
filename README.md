@@ -9,7 +9,7 @@ Documentation for Sheridan Course as an app. It is made for students of all ages
 ### Version 2 Figma Walkthrough
 [Version 2 Video](https://youtu.be/b6e1QCPmGwg)
 
-###Current Features
+### Current Features
 * Authentication/login page
 * Course list page
 * Individual course page
