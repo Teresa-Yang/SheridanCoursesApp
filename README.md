@@ -1,4 +1,4 @@
-# SheridanCourseApp
+# SheridanCoursesApp
 Documentation for Sheridan Course as an app. It is made for students of all ages who attend Sheridan College who would like to see their courses contents and be able to chat with their peers/proffessors on a mobile device.
 
 ### Figma Versions
