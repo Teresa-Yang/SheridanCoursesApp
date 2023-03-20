@@ -6,6 +6,8 @@ Documentation for Sheridan Course as an app. It is made for students of all ages
 
 [Version 2](https://www.figma.com/proto/ywCONwppIBKxUgAGguEvDq/HCI-Assignment2?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 
+[Version 3](https://www.figma.com/proto/M27LmTW02PwE6rmxkW0BUa/SheridanCoursesApp3?scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1&node-id=1-3)
+
 ### Version 2 Figma Walkthrough
 [Version 2 Video](https://youtu.be/b6e1QCPmGwg)
 
